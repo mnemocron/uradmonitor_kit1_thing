@@ -5,7 +5,7 @@
 
 make sure, you have the build tools installed
 
-````bash
+```bash
 sudo apt install make avr-gcc avr-libc gcc-avr
 ```
 
